@@ -1,0 +1,12 @@
+1.词典/2.类别词典/1.收集/6.社会科学/1.人名、公司名、组织名/1.词/Company-Names-Corpus（480W）.txt filter=lfs diff=lfs merge=lfs -text
+1.词典/2.类别词典/1.收集/6.社会科学/1.人名、公司名、组织名/1.词/Company-Names-Corpus@480W.txt filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale Chinese natural language processing corpus/baike_qa2019.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale Chinese natural language processing corpus/new2016zh.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale Chinese natural language processing corpus/translation2019zh.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale Chinese natural language processing corpus/webtext2019zh.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale Chinese natural language processing corpus/wiki_zh_2019.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale[[:space:]]Chinese[[:space:]]natural[[:space:]]language[[:space:]]processing[[:space:]]corpus/baike_qa2019.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale[[:space:]]Chinese[[:space:]]natural[[:space:]]language[[:space:]]processing[[:space:]]corpus/new2016zh.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale[[:space:]]Chinese[[:space:]]natural[[:space:]]language[[:space:]]processing[[:space:]]corpus/translation2019zh.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale[[:space:]]Chinese[[:space:]]natural[[:space:]]language[[:space:]]processing[[:space:]]corpus/webtext2019zh.zip filter=lfs diff=lfs merge=lfs -text
+2.训练数据集/1.综合/3.Large-scale[[:space:]]Chinese[[:space:]]natural[[:space:]]language[[:space:]]processing[[:space:]]corpus/wiki_zh_2019.zip filter=lfs diff=lfs merge=lfs -text
